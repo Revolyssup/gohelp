@@ -29,7 +29,3 @@ func _merge(arr1 Intarr, arr2 Intarr) Intarr {
 	}
 	return arr3
 }
-
-func _mergesort(arr Intarr) {
-
-}
